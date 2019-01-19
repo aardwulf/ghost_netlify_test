@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://kasia.tk",
+    "contentApiKey": "99f95a96eeb0b230d3cec4a1f5"
+  },
+  "production": {
+    "apiUrl": "https://kasia.tk",
+    "contentApiKey": "99f95a96eeb0b230d3cec4a1f5"
+  }
+}
